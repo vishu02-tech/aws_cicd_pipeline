@@ -5,4 +5,4 @@ set -e
 docker pull vishal002/aws_cicd_pipeline:latest
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 vishal002/aws_cicd_pipeline:latest
+docker run -d -p 5000:5000 vishal002/aws_cicd_pipeline:latest 
