@@ -5,13 +5,13 @@
 ### Set Up GitHub Repository
 The first step in our CI journey is to set up a GitHub repository to store our Python application's source code. If you already have a repository, feel free to skip this step. Otherwise, let's create a new repository on GitHub by following these steps:
 
-Go to github.com and sign in to your account.
-Click on the "+" button in the top-right corner and select "New repository."
-Give your repository a name and an optional description.
-Choose the appropriate visibility option based on your needs.
-Initialize the repository with a README file.
-Click on the "Create repository" button to create your new GitHub repository.
-Great! Now that we have our repository set up, we can move on to the next step.
+1.Go to github.com and sign in to your account.
+2.Click on the "+" button in the top-right corner and select "New repository."
+3.Give your repository a name and an optional description.
+4.Choose the appropriate visibility option based on your needs.
+5.Initialize the repository with a README file.
+6.Click on the "Create repository" button to create your new GitHub repository.
+7.Great! Now that we have our repository set up, we can move on to the next step.
 
 ### Configure AWS CodeBuild
 In this step, we'll configure AWS CodeBuild to build our Python application based on the specifications we define. CodeBuild will take care of building and packaging our application for deployment. Follow these steps:
